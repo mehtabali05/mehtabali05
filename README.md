@@ -1,22 +1,23 @@
-# Hi, I'm Mehtab Ali 👋
-Backend / MERN Stack Developer with hands-on experience building scalable APIs, booking systems,
-and secure backend features using Node.js, Express.js, and MongoDB.
+Hi, I'm Mehtab Ali 👋
 
-## 📌 Featured Projects
-🔹 **Booking System Backend**
-• Booking lifecycle (Pending → Accepted/Rejected/Completed)
-• Automatic chat room creation
-• Messages persisted in database with access control
+Backend-focused Software Engineer with experience building RESTful APIs,
+booking systems, authentication workflows, and dashboard-based communication
+features using Node.js, Express.js, and MongoDB.
 
-🔹 **E-commerce Platform (Internship)**
-• Product CRUD, JWT Auth, Stripe Payments, Cloudinary media
-• Secure REST APIs and admin dashboards
+🔹 What I work on:
+- Backend systems & REST APIs
+- Booking & scheduling workflows
+- Authentication & role-based access
+- Chat systems and collaboration features
 
-🔹 **Bookstore App**
-• REST APIs with authentication and payment integration
+🛠 Tech Stack:
+Node.js | Express.js | MongoDB | JWT | REST APIs | Socket.IO | WebRTC (basic)
+React | EJS | Tailwind CSS | Git | GitHub
 
-## 🛠 Tech Stack
-Node.js • Express.js • MongoDB • JWT Auth • REST APIs • MVC • Stripe • Cloudinary
-React • EJS • Tailwind CSS
+📌 Featured Projects:
+- Booking System Backend (Client Project)
+- Full-Stack ECommerce Platform
+- Collaboration Platform (Nexus)
 
-📫 Connect: https://www.linkedin.com/in/mehtab-ali-280b2631b/
+📫 LinkedIn:
+https://www.linkedin.com/in/mehtab-ali-280b2631b
