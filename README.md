@@ -1,23 +1,26 @@
-Hi, I'm Mehtab Ali 👋
+Hi, I’m Mehtab Ali 👋
 
-Backend-focused Software Engineer with experience building RESTful APIs,
-booking systems, authentication workflows, and dashboard-based communication
-features using Node.js, Express.js, and MongoDB.
+Junior Backend Developer (MERN) with hands-on experience building secure backend systems using Node.js, Express, and MongoDB. 
+I focus on REST API design, authentication, role-based access control, and backend-driven business logic through real-world projects and internship work.
 
 🔹 What I work on:
 - Backend systems & REST APIs
-- Booking & scheduling workflows
-- Authentication & role-based access
-- Chat systems and collaboration features
+- Booking and scheduling workflows
+- JWT authentication & role-based access
+- Backend-controlled chat and dashboard features
 
 🛠 Tech Stack:
-Node.js | Express.js | MongoDB | JWT | REST APIs | Socket.IO | WebRTC (basic)
-React | EJS | Tailwind CSS | Git | GitHub
+Node.js • Express.js • MongoDB • Mongoose • JWT • REST APIs  
+React • Next.js • EJS • Tailwind CSS  
+Git • GitHub • Postman • Render • Vercel
 
 📌 Featured Projects:
-- Booking System Backend (Client Project)
-- Full-Stack ECommerce Platform
-- Collaboration Platform (Nexus)
+- Booking & Chat System (Backend-focused)
+- E-commerce Platform (MERN)
+- Clean REST API Projects (Auth & CRUD)
+
+🎯 Currently seeking:
+Junior Backend Developer or Junior Full-Stack Developer roles
 
 📫 LinkedIn:
 https://www.linkedin.com/in/mehtab-ali-280b2631b
