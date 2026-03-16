@@ -1,38 +1,52 @@
-# Hi, I'm Mehtab Ali 👋
+<h1 align="center">Hi 👋, I'm Mehtab Ali</h1>
 
-Full Stack Developer focused on building scalable backend systems and modern web applications.
+<p align="center">
+Full Stack Developer | Backend Specialist
+</p>
 
-## Tech Stack
+---
 
-Backend
-Node.js
-Express.js
-NestJS
+## 🚀 About Me
 
-Frontend
-React.js
-Next.js
-Tailwind CSS
+• Full Stack Developer working with **NestJS, TypeScript, PostgreSQL, React**  
+• Experienced in building **REST APIs and scalable backend systems**  
+• Strong background in **Node.js, Express.js, MongoDB, and MERN stack**  
+• Passionate about designing **clean architecture and production-ready applications**
 
-Databases
-PostgreSQL
-MongoDB
+---
 
-Languages
-JavaScript
-TypeScript
+## 🛠 Tech Stack
 
-## Featured Projects
+### Backend
+Node.js | Express.js | NestJS
 
-### E-commerce Platform
-Full-stack application built with MERN stack featuring authentication, admin dashboard, Stripe payment integration, and Cloudinary media management.
+### Frontend
+React.js | Next.js | Tailwind CSS
 
-### Booking System
-Backend booking system with booking lifecycle management and dashboard-based chat functionality.
+### Databases
+PostgreSQL | MongoDB
 
-## Tools
+### Languages
+JavaScript | TypeScript
+
+### Tools
 Git | GitHub | Postman | Cloudinary | Stripe
 
-## Contact
-Email: mehtabalics7@gmail.com  
-LinkedIn: linkedin.com/in/mehtab-ali-280b2631b
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Platform
+Full stack MERN application with authentication, admin dashboard, Stripe payment integration, and Cloudinary image management.
+
+### 📅 Booking System
+Backend system handling booking lifecycle and private chat rooms created after booking acceptance.
+
+---
+
+## 📫 Contact
+
+Email: **mehtabalics7@gmail.com**
+
+LinkedIn:
+https://linkedin.com/in/mehtab-ali-280b2631b
