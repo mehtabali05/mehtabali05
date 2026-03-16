@@ -50,3 +50,5 @@ Email: **mehtabalics7@gmail.com**
 
 LinkedIn:
 https://linkedin.com/in/mehtab-ali-280b2631b
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehtabali05&show_icons=true)
