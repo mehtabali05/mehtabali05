@@ -1,54 +1,36 @@
-<h1 align="center">Hi 👋, I'm Mehtab Ali</h1>
+# Hi, I'm Mehtab Ali 👋
 
-<p align="center">
-Full Stack Developer | Backend Specialist
-</p>
+## Full Stack Developer | Building Scalable Web Apps with React, TypeScript, NestJS, PostgreSQL & MongoDB
 
----
+I build modern full-stack web applications with clean architecture, role-based access control, scalable APIs, and business-focused workflows.
 
-## 🚀 About Me
+### What I work on
+- Full-stack web applications
+- Role-based dashboards and permissions
+- SaaS and subscription-based platforms
+- Booking, rental, and management systems
+- eCommerce and payment integrations
+- Real-time features and notifications
 
-• Full Stack Developer working with **NestJS, TypeScript, PostgreSQL, React**  
-• Experienced in building **REST APIs and scalable backend systems**  
-• Strong background in **Node.js, Express.js, MongoDB, and MERN stack**  
-• Passionate about designing **clean architecture and production-ready applications**
+### Tech Stack
+**Frontend:** React.js, TypeScript, TanStack Query, Tailwind CSS  
+**Backend:** NestJS, Node.js, REST APIs, Socket.io  
+**Database:** PostgreSQL, MongoDB, Drizzle ORM, Neon DB  
+**Auth & Security:** Better Auth, JWT, RBAC  
+**Storage & Services:** Cloudinary, SendGrid, Brevo  
+**Deployment:** Vercel, Railway, GoDaddy  
+**Payments:** Stripe
 
----
+### Featured Projects
+- **MotionFx** — A tier-based learning platform with referral onboarding, affiliate access, subscription gating, and admin management.
+- **RV Rentals & Management System** — A multi-role platform for branch management, rentals, services, RV sales, parts, analytics, and permissions.
+- **Veteran Healings** — An eCommerce platform with product browsing, checkout, donation flow, and admin management.
 
-## 🛠 Tech Stack
+### Current Focus
+- Building production-ready full-stack systems
+- Improving system design and backend architecture
+- Creating scalable dashboards and business workflows
+- Shipping clean, maintainable, recruiter-friendly projects
 
-### Backend
-Node.js | Express.js | NestJS
-
-### Frontend
-React.js | Next.js | Tailwind CSS
-
-### Databases
-PostgreSQL | MongoDB
-
-### Languages
-JavaScript | TypeScript
-
-### Tools
-Git | GitHub | Postman | Cloudinary | Stripe
-
----
-
-## 📌 Featured Projects
-
-### 🛒 E-Commerce Platform
-Full stack MERN application with authentication, admin dashboard, Stripe payment integration, and Cloudinary image management.
-
-### 📅 Booking System
-Backend system handling booking lifecycle and private chat rooms created after booking acceptance.
-
----
-
-## 📫 Contact
-
-Email: **mehtabalics7@gmail.com**
-
-LinkedIn:
-https://linkedin.com/in/mehtab-ali-280b2631b
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehtabali05&show_icons=true)
+### Connect with me
+- LinkedIn: [Mehtab Ali](https://www.linkedin.com/in/mehtab-ali-280b2631b)
