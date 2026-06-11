@@ -72,7 +72,7 @@ An eCommerce platform for veterans with product browsing, checkout, and donation
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehtabali05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
@@ -82,8 +82,13 @@ An eCommerce platform for veterans with product browsing, checkout, and donation
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtabali05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehtabali05&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtabali05&layout=compact&theme=tokyonight)
 ---
 
 ## Current Focus
