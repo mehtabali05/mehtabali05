@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Mehtab Ali -->
 
 <h1 align="center">Hi, I'm Mehtab Ali 👋</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web Apps with React, TypeScript, NestJS, PostgreSQL & MongoDB</h3>
+<h3 align="center">Full Stack Developer | Building Scalable Web Apps with React, Next, TypeScript, NestJS, PostgreSQL & MongoDB</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehtab-ali-280b2631b/" target="_blank">
