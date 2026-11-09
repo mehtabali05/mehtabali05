@@ -1,6 +1,6 @@
 # Hi, I'm Mehtab Ali 👋
 
-### 💻 Full-Stack Developer | ⚙️ DevOps & Cloud Engineering
+### 💻 Full-Stack Software Engineer | ⚙️ DevOps & Cloud Engineering
 
 Building modern web applications and exploring cloud infrastructure, containerization, CI/CD automation and deployment practices.
 
